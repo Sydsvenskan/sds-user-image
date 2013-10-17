@@ -1,4 +1,7 @@
 {
 	"name": "Sydsvenskan/sds-user-image",
 	"type": "wordpress-plugin",
+	"require": {
+		"composer/installers": "v1.0.6"
+	}
 }
